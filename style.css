@@ -5,6 +5,7 @@
     text-decoration: none; /* Removing line */
     font-family: sans-serif;
     font-size: 14px;
+    transition: 1s ease-in-out;
 }
 
 body {
@@ -81,6 +82,10 @@ body {
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
+}
+
+.instagram-login:hover {
+    background-color:rgb(78, 220, 255);
 }
 
 .instagram-logout {
@@ -160,4 +165,9 @@ body {
 .instagram-logout:hover {
     text-decoration: underline;
     color: blue;
+}
+
+::selection {
+    background-color: rgb(78, 220, 255);
+    color: #ffffff;
 }
