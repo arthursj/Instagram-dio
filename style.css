@@ -156,3 +156,8 @@ body {
         /* border: none; */
     }
 }
+
+.instagram-logout:hover {
+    text-decoration: underline;
+    color: blue;
+}
