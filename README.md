@@ -17,7 +17,7 @@
 
 ## 📚 About
 
-Esse repositório é dedicado em base em exércicios na realização exércicios do Projeto: **Recriando a página inicial do Instagram** da plataforma Digital Inovation One. Onde foi ministrado por Gabriela Pinheiro Professora e Front-End Engineer, em Agosto de 2020. O projeto tem como foco trabalhar com _**responsividade**_ utilizando o **@media (media queries)** e a utilização do **flexbox** com **CSS**.
+Esse repositório é dedicado em base na realização exércicios do Projeto: **Recriando a página inicial do Instagram** da plataforma Digital Inovation One. Onde foi ministrado por Gabriela Pinheiro Professora e Front-End Engineer, em Agosto de 2020. O projeto tem como foco trabalhar com _**responsividade**_ utilizando o **@media (media queries)** e a utilização do **flexbox** com **CSS**.
 
 Para ter acesso a conteúdo similares, acesse [DIO](https://web.dio.me/labs)
 
